@@ -1,0 +1,11 @@
+The list of groceries has 8 items.
+Groceries wanted:
+[2.5, 4.0, 11.5, 7.0, 15.0, 4.0, 6.0, 8.0]
+
+Enter your budget:
+17.5
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 3 ms : 732285 ns
+Purchased grocery prices are:
+[2.5, 15.0]
+Done with ShoppingBag.

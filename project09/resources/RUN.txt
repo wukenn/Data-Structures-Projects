@@ -1,0 +1,17 @@
+Analysis of all_array.jpg
+
+Note: The numbers of the x axis is not the recursion limit but a scale to the recursion limit
+Each unit represents 2 units of recursion limit.(eg 25 represent 50)
+
+The most stable points(optimal recursion) occurs when the the recursion limit is
+between 220 and 235. We can see that most of the graphs has a flat line.
+
+The highest peaking point for 3 of the graphs occurs when the recursion limit is
+between 250 and 260. This includes the 370000, 770000, 1570000 array graphs.
+
+The lowest peaking point in the graph is when the graph 1570000 recursion limit reaches 260
+This occur maybe due to the large size of array making the spikes more prominent.
+
+Conclusion, the bigger the size of the array, then the spikes (lowest and highest) will be much
+steeper and clearer compared to the other graphs. While the smaller sized arrays will more regions
+of flat area and less spikes.

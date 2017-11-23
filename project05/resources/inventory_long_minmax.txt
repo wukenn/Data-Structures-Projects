@@ -1,0 +1,16 @@
+add soup
+add carrot
+add tomato
+add banana
+add apple
+add beans
+add avocado
+add tomato
+add turnip
+add tofu
+add vegetable
+add yogurt
+buy avocado
+buy apple
+buy yogurt
+buy turnip

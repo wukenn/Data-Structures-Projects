@@ -1,0 +1,6 @@
+add soup
+add tangerines
+add turnips
+add apple
+buy apple
+buy turnips
