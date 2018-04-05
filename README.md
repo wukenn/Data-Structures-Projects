@@ -1,5 +1,7 @@
-# cs1c
-Advanced Data Structures and Algorithms in Java @Foothill College
+# Data Structures Projects
+Advanced Data Structures and Algorithms in Java
+
+Class Taken @ Foothill College
 
 Projects cover:
 
@@ -21,3 +23,5 @@ Algorithms:
 -Shortest path
 -minimum spanning trees
 -maximum flow graphs
+
+
